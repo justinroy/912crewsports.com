@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 700 700" role="img" aria-labelledby="title desc">
+  <title id="title">912 Crew Sports fallback logo</title>
+  <desc id="desc">Fallback graphic for 912 Crew Sports.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f2f4f7"/>
+      <stop offset="100%" stop-color="#d0d5dd"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="20" width="660" height="660" rx="36" fill="url(#bg)" stroke="#101828" stroke-width="8"/>
+  <text x="350" y="275" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="150" fill="#101828">912</text>
+  <text x="350" y="405" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="110" fill="#344054">CREW</text>
+  <text x="350" y="510" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="96" fill="#101828">SPORTS</text>
+  <text x="350" y="610" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-style="italic" font-size="44" fill="#344054">From Claxton to the Coast</text>
+</svg>
